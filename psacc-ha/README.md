@@ -24,4 +24,4 @@ You can find more details here : https://www.home-assistant.io/common-tasks/os#i
 You can find some other config example [here](https://community.home-assistant.io/t/peugeot-citroen-ds-cars-connected-car/202949/34)
 
 ## Information on the app
-Go here : https://github.com/flobz/psa_car_controller
+Go here : https://github.com/DavidFFerreira/psa_car_controller
